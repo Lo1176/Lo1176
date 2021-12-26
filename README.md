@@ -1,5 +1,5 @@
 - 👋  Hi, I’m @Lo1176
-- 👀  I’m interested in Ruby and Ror
+- 👀  I’m interested in Ruby and Ror. Wordpress and PHP.
 - 🌱  I’m currently learning more JS and React
 - 💞️  I’m looking to collaborate on wonderfull project in any ways !
 - 📫  How to reach me ? ➡️ (on https://www.linkedin.com/in/laurent-binder/ ;))
