@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @Lo1176
-- 👀  I’m interested in Ruby and RoR, Node.JS and React.
-- 🌱  I’m currently learning more JS, TS and React
+- 👀  I’m interested in Node.JS and React.
+- 🌱  I’m currently learning more TS and Redux-Toolkit.
 - 💞️  I’m looking to collaborate on wonderfull project in any ways !
 - 📫  How to reach me? ➡️ on [linkedin](https://www.linkedin.com/in/laurent-binder/)
 
